@@ -1,11 +1,15 @@
 Hello!
 
-To run this Postman Collection, just download it or clone it into your local and follow either one of the following sets of steps:
+To run this Postman Collection, just download it or clone it into your local and follow the steps:
+
+Note: You might need to install Node.js, npm, and Newman so just follow the easy steps described in this video https://www.youtube.com/watch?v=R7P5gIF9ZgU&ab_channel=QASCRIPT
 
 ***CLI Version***
 
 1.Open your command line window of choice (I used GitBash)
+
 2.Execute either of these commands below (replace with your own path info if you are targeting the downloaded collection instead) :
+
      -Local folder URL: 
      
      newman run "C:\Users\Diego\Downloads\Pet's Store.postman_collection.json"
