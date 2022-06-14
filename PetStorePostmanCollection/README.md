@@ -11,7 +11,7 @@ To run this Postman Collection, just download it or clone it into your local and
      newman run "C:\Users\Diego\Downloads\Pet's Store.postman_collection.json"
      
      
-     ![image](https://user-images.githubusercontent.com/85460136/173483590-95b7a727-1a8e-4468-94f6-f0862652776c.png)
+   ![image](https://user-images.githubusercontent.com/85460136/173483590-95b7a727-1a8e-4468-94f6-f0862652776c.png)
 
      
      -From Postman URL 
@@ -19,7 +19,7 @@ To run this Postman Collection, just download it or clone it into your local and
      newman run https://www.getpostman.com/collections/d1dbb0ee9fbc074f4bdb
      
      
-      ![image](https://user-images.githubusercontent.com/85460136/173483366-29299492-10a1-4c79-9471-05ffae13a71f.png)
+   ![image](https://user-images.githubusercontent.com/85460136/173483366-29299492-10a1-4c79-9471-05ffae13a71f.png)
 
 
      
